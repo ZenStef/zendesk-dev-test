@@ -2,6 +2,4 @@
 .DS_Store
 nohup.out
 README.md
-server.js
-package.json
 node_modules
